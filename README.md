@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/duplex-tech/image/upload/v1720443041/newDuplex/hire-developer/20240708182037-Layer_2.webp(https://www.simplilearn.com/ice9/free_resources_article_thumb/is_fullstackdevelopment_hard.jpg))
+![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/is_fullstackdevelopment_hard.jpg) 
 <h1 align="center">Hi 👋, I'm AASHISH PATEL</h1>
 <h3 align="center">A Passionate Full-stack Web Developer</h3>
 
