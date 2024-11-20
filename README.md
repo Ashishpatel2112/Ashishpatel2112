@@ -1,4 +1,4 @@
-![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/is_fullstackdevelopment_hard.jpg) 
+![MasterHead](https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif) 
 <h1 align="center">Hi 👋, I'm AASHISH PATEL</h1>
 <h3 align="center">A Passionate Full-stack Web Developer</h3>
 
