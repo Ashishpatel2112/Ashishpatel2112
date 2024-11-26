@@ -1,4 +1,4 @@
-![MasterHead](https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif) 
+![MasterHead]([https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif](https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif)) 
 <h1 align="center">Hi 👋, I'm AASHISH PATEL</h1>
 <h3 align="center">A Passionate Full-stack Developer/MERN-Stack Developer</h3>
 
